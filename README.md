@@ -2,6 +2,7 @@
 notes， questions and others
 
 功能：字符串转浮点
+
 源代码段：
 
     from functools import reduce
@@ -53,7 +54,7 @@ notes， questions and others
     # else:
     #   print('测试失败!')
 
-问题1：f n 的值怎么来的？
+问题1：f 和 n 的值怎么来的？
 
 ![img](https://github.com/muiz-lee/PythonNote/blob/master/Image%201.png)
 
