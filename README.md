@@ -52,7 +52,7 @@ print(str2float('120.0034'))
 
 问题1：f n 的值怎么来的？
 
-https://github.com/muiz-lee/PythonNote/blob/master/Image%201.png
+![img]https://github.com/muiz-lee/PythonNote/blob/master/Image%201.png
 
 问题2：以下代码哪里不对？
 
